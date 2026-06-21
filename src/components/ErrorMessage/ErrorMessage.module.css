@@ -1,0 +1,39 @@
+.errorContainer {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  padding: var(--space-4) var(--space-5);
+  background: var(--color-error-muted);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  border-radius: var(--radius-lg);
+  animation: fadeInUp 0.3s ease both;
+}
+
+.errorIcon {
+  width: 20px;
+  height: 20px;
+  min-width: 20px;
+  color: var(--color-error);
+  margin-top: 1px;
+}
+
+.errorContent {
+  flex: 1;
+}
+
+.errorTitle {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-error);
+  margin-bottom: var(--space-1);
+}
+
+.errorMessage {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+}
+
+.retryButton {
+  margin-top: var(--space-3);
+}
