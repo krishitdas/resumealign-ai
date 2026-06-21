@@ -2,6 +2,8 @@
 
 **AI-Powered Resume Bullet Point Rewriter**
 
+🚀 [Live Demo](https://resumealign-ai.vercel.app/)
+
 ResumeAlign AI helps job seekers tailor their resumes to specific job descriptions. Paste a job description and your existing bullet points, select a rewrite style, and get ATS-optimized results — complete with keyword analysis, missing skills detection, and a match score.
 
 ---
@@ -133,9 +135,17 @@ The `vercel.json` configuration is already included in the project.
 
 ## Screenshots
 
-_Screenshots will be added after deployment._
+### Home Page
 
----
+![Home Page](./screenshots/screenshot1.png)
+
+### AI Rewrite Results
+
+![AI Rewrite Results](./screenshots/screenshot2.png)
+
+### ATS Analysis Dashboard
+
+![ATS Analysis Dashboard](./screenshots/screenshot3.png)
 
 ## Future Improvements
 
