@@ -136,16 +136,13 @@ The `vercel.json` configuration is already included in the project.
 ## Screenshots
 
 ### Home Page
-
-![Home Page](./screenshots/screenshot1.png)
+![Home Page](./screenshots/Screenshot%201.png)
 
 ### AI Rewrite Results
-
-![AI Rewrite Results](./screenshots/screenshot2.png)
+![AI Rewrite Results](./screenshots/Screenshot%202.png)
 
 ### ATS Analysis Dashboard
-
-![ATS Analysis Dashboard](./screenshots/screenshot3.png)
+![ATS Analysis Dashboard](./screenshots/Screenshot%203.png)
 
 ## Future Improvements
 
